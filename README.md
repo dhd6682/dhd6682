@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=DHD6682%20Git-hub%20%F0%9F%A4%97&fontSize=30&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=안녕하세요%20AI%20개발자%20허동현입니다%F0%9F%A4%97&fontSize=30&animation=twinkling)
   
 </div>
 
