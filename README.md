@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DHD6682%20Git-hub%20%F0%9F%A4%97)
   
 </div>
 
@@ -74,6 +74,8 @@
   </a>
 </div>
 
+
+ ## 🤔 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhd6682&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhd6682&layout=compact)
