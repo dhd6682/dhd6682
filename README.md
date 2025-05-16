@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!%20%F0%9F%A4%97&fontSize=50&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=동현s%20Git-hub%20%F0%9F%A4%97&fontSize=50&animation=twinkling)
   
 </div>
 
