@@ -43,9 +43,7 @@
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/></a>&nbsp 
 
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></a>&nbsp 
-</p>
+
 
 <br>
 
