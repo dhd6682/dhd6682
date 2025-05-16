@@ -76,10 +76,6 @@
 </div>
 
 
- ## 🤔 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhd6682&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhd6682&layout=compact)
 <!--
 **dhd6682/dhd6682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
