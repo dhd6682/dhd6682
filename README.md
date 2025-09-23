@@ -1,10 +1,10 @@
 <div align="center">  
-<a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/dhd6682"
-      width="700"
-      height="300"
-    />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dhd6682&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dhd6682"
+  width="600"
+  height="300"
+/>
 </a>
 
 <td valign="top">
